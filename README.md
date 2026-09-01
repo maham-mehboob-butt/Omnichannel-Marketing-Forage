@@ -56,13 +56,13 @@ Omnichannel-Marketing-Forage/
 
 ## 🎙️ Task 3: Local Ambassador Strategy Pitch
 
-* **Strategic Framework:** *"Think Local. Influence Global"* — Leveraging authentic regional tastemakers to bridge digital social followings into brick-and-mortar retail stores[cite: 9].
+* **Strategic Framework:** *"Think Local. Influence Global"* — Leveraging authentic regional tastemakers to bridge digital social followings into brick-and-mortar retail stores.
 * **Selected Ambassador Profiles:**
-  * **Alex Chen (Seattle, WA):** Urban sustainability consultant and digital creator (Audience: 42K followers, 22–35 urban professionals; *"Circular Saturday"* garment repair pop-up and in-store QR rack curation)[cite: 9].
-  * **Maya Patel (Austin, TX):** Certified pilates coach and movement leader (Audience: 58K followers, 20–40 active lifestyle seekers; *"Movement & Matcha"* pre-opening sessions and 1-on-1 VIP fit styling)[cite: 9].
-* **Omnichannel Activations:** In-store community event hosting, custom QR-driven video fit reviews, circular apparel trade-in pop-ups, and localized UGC generation[cite: 9].
+  * **Alex Chen (Seattle, WA):** Urban sustainability consultant and digital creator (Audience: 42K followers, 22–35 urban professionals; *"Circular Saturday"* garment repair pop-up and in-store QR rack curation).
+  * **Maya Patel (Austin, TX):** Certified pilates coach and movement leader (Audience: 58K followers, 20–40 active lifestyle seekers; *"Movement & Matcha"* pre-opening sessions and 1-on-1 VIP fit styling).
+* **Omnichannel Activations:** In-store community event hosting, custom QR-driven video fit reviews, circular apparel trade-in pop-ups, and localized UGC generation.
 * **Deliverables:**
-  * [`Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf`](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf)[cite: 9]
+  * [`Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf`](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf)
   * [`Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Video_Pitch.mp4`](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Video_Pitch.mp4)
 
 ---
