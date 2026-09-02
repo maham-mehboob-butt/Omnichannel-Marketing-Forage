@@ -1,12 +1,19 @@
 # Omnichannel Marketing Job Simulation — Forage
 
-This repository contains the complete portfolio of strategic deliverables, digital retail innovation concepts, multimedia pitch presentations, and quantitative performance analytics developed during the **Omnichannel Marketing Virtual Experience** on Forage.
+This repository documents my work completed during the **Omnichannel Marketing Job Simulation on Forage**.
 
-The project models real-world retail marketing workflows across four core competencies: integrated cross-channel launch planning, in-store digital customer experience innovation, hyperlocal creator strategy, and quantitative campaign performance modeling.
+The project covers four core areas of modern omnichannel marketing:
+
+- Integrated marketing campaign planning
+- Digital transformation of the retail customer experience
+- Local ambassador and creator strategy
+- Marketing performance analysis and data-driven decision-making
+
+The deliverables demonstrate how marketing strategy, customer experience, digital innovation, and quantitative analysis can work together to create a connected customer journey.
 
 ---
 
-## 📂 Repository Structure & Project Files
+## 📂 Repository Structure
 
 ```text
 Omnichannel-Marketing-Forage/
@@ -23,90 +30,282 @@ Omnichannel-Marketing-Forage/
 │
 ├── Task-4-Data-Analysis/
 │   ├── Task4_Dataset_Ambassador_Marketing_Q4.xlsx
-│   └── Task4_Ambassador Performance Data Analysis.pdf
+│   └── Task4_Ambassador_Performance_Data_Analysis.pdf
 │
+├── Omnichannel_Marketing_Job_Simulation_Certificate.pdf
 └── README.md
 ```
 
 ---
 
-## 🎯 Task 1: Integrated Marketing Plan
+# 🎯 Task 1 — Integrated Marketing Plan
 
-* **Campaign Name:** *"Move Together"* Integrated Product Launch
-* **Objective:** Establish an omnichannel go-to-market strategy that aligns digital channels, e-commerce, public relations, and physical retail touchpoints into a unified customer journey.
-* **Key Strategic Focus:**
-  * Multi-tiered audience segmentation balancing high-performance athletes and mindful lifestyle movers.
-  * Cross-channel media mix allocations covering paid search, programmatic display, organic social, and PR activations.
-  * Consistent brand positioning emphasizing inclusivity, movement, and community engagement.
-* **Deliverable:** [`Task-1-Integrated-Marketing-Plan/Task1_Creative_Brief_Move_Together.pdf`](./Task-1-Integrated-Marketing-Plan/Task1_Creative_Brief_Move_Together.pdf)
+### Campaign: "Move Together"
 
----
+The first task focused on developing an integrated marketing strategy for a smart fitness mirror launch.
 
-## 🛍️ Task 2: Digital Transformation of the Retail Guest Experience
+### Key Areas Covered
 
-* **Concept Name:** **FitFinder & Endless Aisle Interactive Kiosk**
-* **Core Problem Solved:** Reduces store walkouts and lost revenue caused by out-of-stock sizes/colors while minimizing fitting room congestion.
-* **System Architecture & Features:**
-  * **Endless Aisle Integration:** Real-time bi-directional inventory synchronization connecting local retail stock with regional warehouse distribution hubs.
-  * **AR Fit Assistant:** 3D digital garment mapping and body silhouette measurement tools built directly into an in-store mirror interface.
-  * **Seamless Mobile POS:** Contactless one-touch digital checkout offering instant in-store reserve or direct-to-door expedited delivery.
-* **Deliverable:** [`Task-2-Retail-Guest-Experience/Task2_Digital_Product_Concept_Submission.pdf`](./Task-2-Retail-Guest-Experience/Task2_Digital_Product_Concept_Submission.pdf)
+- Campaign objectives
+- Target audience segmentation
+- Core campaign messaging
+- Omnichannel channel strategy
+- Creative assets and communication style
+- Campaign timeline and phasing
+- Team roles and responsibilities
+- Measurement framework and KPIs
 
----
+### Core Message
 
-## 🎙️ Task 3: Local Ambassador Strategy Pitch
+> **"Fitness that fits your life. A community that moves with you."**
 
-* **Strategic Framework:** *"Think Local. Influence Global"* — Leveraging authentic regional tastemakers to bridge digital social followings into brick-and-mortar retail stores.
-* **Selected Ambassador Profiles:**
-  * **Alex Chen (Seattle, WA):** Urban sustainability consultant and digital creator (Audience: 42K followers, 22–35 urban professionals; *"Circular Saturday"* garment repair pop-up and in-store QR rack curation).
-  * **Maya Patel (Austin, TX):** Certified pilates coach and movement leader (Audience: 58K followers, 20–40 active lifestyle seekers; *"Movement & Matcha"* pre-opening sessions and 1-on-1 VIP fit styling).
-* **Omnichannel Activations:** In-store community event hosting, custom QR-driven video fit reviews, circular apparel trade-in pop-ups, and localized UGC generation.
-* **Deliverables:**
-  * [`Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf`](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf)
-  * [`Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Video_Pitch.mp4`](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Video_Pitch.mp4)
+### Deliverable
+
+[View Task 1 — Creative Brief](./Task-1-Integrated-Marketing-Plan/Task1_Creative_Brief_Move_Together.pdf)
 
 ---
 
-## 📊 Task 4: Ambassador Marketing Performance Analysis (Q4 Review)
+# 🛍️ Task 2 — Retail Guest Experience
 
-* **Objective:** Clean, calculate, and evaluate campaign return on investment (ROI), customer acquisition cost (CAC), and lead conversion rates across 8 acquisition channels to guide strategic budget reallocations for upcoming quarters.
-* **Core Metrics Modeled:**
-  * Conversion Rate = Conversions ÷ Leads
-  * Customer Acquisition Cost (CAC) = Spend ÷ Conversions
-  * Return on Investment (ROI) = (Revenue − Spend) ÷ Spend
+### Concept: FitFinder & Endless Aisle Interactive Kiosk
 
-### 📈 Multi-Channel Performance Matrix
+Task 2 focused on using digital transformation to improve the in-store retail experience.
+
+The proposed solution combines digital tools to help customers discover products, overcome inventory limitations, and complete purchases more conveniently.
+
+### Key Features
+
+**Endless Aisle Integration**
+
+- Connects in-store inventory with regional warehouse stock
+- Helps customers access products that are unavailable in-store
+
+**AR Fit Assistant**
+
+- Provides a digital fitting experience
+- Uses 3D garment mapping and body silhouette measurement
+
+**Seamless Mobile POS**
+
+- Enables contactless digital checkout
+- Supports in-store reservation or direct-to-door delivery
+
+### Business Problem Addressed
+
+The solution aims to reduce:
+
+- Lost sales caused by out-of-stock products
+- Customer frustration
+- Fitting room congestion
+- Friction during the purchase journey
+
+### Deliverable
+
+[View Task 2 — Digital Product Concept](./Task-2-Retail-Guest-Experience/Task2_Digital_Product_Concept_Submission.pdf)
+
+---
+
+# 🎙️ Task 3 — Local Ambassador Strategy
+
+### Strategy: "Think Local. Influence Global."
+
+Task 3 focused on developing a hyperlocal ambassador strategy designed to connect digital audiences with physical retail experiences.
+
+### Selected Ambassador Profiles
+
+**Alex Chen — Seattle, WA**
+
+- 42K followers
+- Audience: Urban professionals aged 22–35
+- Focus: Urban sustainability and digital content
+- Activation: "Circular Saturday" garment repair pop-up
+- Additional activation: In-store QR rack curation
+
+**Maya Patel — Austin, TX**
+
+- 58K followers
+- Audience: Active lifestyle consumers aged 20–40
+- Focus: Pilates and movement
+- Activation: "Movement & Matcha" pre-opening sessions
+- Additional activation: VIP fit styling
+
+### Omnichannel Activations
+
+- In-store community events
+- QR-driven video fit reviews
+- Circular apparel trade-in experiences
+- Localized user-generated content
+- Social-to-store customer journeys
+
+### Deliverables
+
+[View Task 3 — Ambassador Strategy Pitch](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Strategy_Pitch.pdf)
+
+[View Task 3 — Video Pitch](./Task-3-Local-Ambassador-Pitch/Task3_Local_Ambassador_Video_Pitch.mp4)
+
+---
+
+# 📊 Task 4 — Marketing Performance Analysis
+
+Task 4 focused on analyzing Q4 ambassador and marketing acquisition performance across **8 acquisition channels**.
+
+The analysis evaluated:
+
+- Campaign spend
+- Reach
+- Leads
+- Conversions
+- Revenue
+- Conversion Rate
+- Customer Acquisition Cost (CAC)
+- Return on Investment (ROI)
+
+## Key Formulas
+
+**Conversion Rate**
+
+```text
+Conversions ÷ Leads
+```
+
+**Customer Acquisition Cost (CAC)**
+
+```text
+Spend ÷ Conversions
+```
+
+**Return on Investment (ROI)**
+
+```text
+(Revenue − Spend) ÷ Spend
+```
+
+---
+
+## 📈 Multi-Channel Performance Matrix
 
 | Campaign Channel | Spend ($) | Reach | Leads | Conversions | Revenue ($) | Conversion Rate | CAC ($) | ROI (%) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **TikTok Campaign** | $4,500 | 30,000 | 2,800 | 510 | $15,000 | 18.21% | **$8.82** *(Lowest)* | **+233.33%** *(Top)* |
-| **Email Newsletter** | $2,000 | 12,000 | 750 | 180 | $5,400 | 24.00% | **$11.11** *(2nd Lowest)* | **+170.00%** *(2nd Top)* |
-| **Influencer Collab** | $5,700 | 9,800 | 1,300 | 360 | $10,700 | 27.69% | $15.83 | +87.72% |
-| **Instagram Ads** | $5,200 | 18,000 | 1,400 | 320 | $9,600 | 22.86% | $16.25 | +84.62% |
-| **YouTube Sponsorships** | $6,800 | 25,000 | 2,100 | 390 | $12,300 | 18.57% | $17.44 | +80.88% |
-| **Facebook Ads** | $3,900 | 14,500 | 900 | 220 | $6,800 | 24.44% | $17.73 | +74.36% |
-| **In-Person Events** | $7,500 | 3,200 | 1,150 | 380 | $11,200 | **33.04%** *(Highest)* | **$19.74** *(Highest)* | +49.33% |
-| **Blog Partnerships** | $2,800 | 7,500 | 640 | 150 | $3,900 | 23.44% | $18.67 | **+39.29%** *(Lowest)* |
-| **Portfolio Benchmark** | **$4,800 (Avg)** | **15,000 (Avg)** | **1,380 (Avg)** | **313.75 (Avg)** | **$9,362.50 (Avg)** | **24.03% (Avg)** | **$15.70 (Avg)** | **+102.44% (Avg)** |
-
-### 💡 Strategic Takeaways & Budget Recommendations
-1. **Scale TikTok Creator Recruitment:** Reallocate 35–40% of the Q1 marketing budget to short-form video creators to capitalize on industry-leading viral reach and lowest acquisition costs ($8.82 CAC, +233.33% ROI).
-2. **Expand Email Nurture Funnels:** Deploy creator-curated email workflows to leverage high-margin retention (+170.00% ROI) at low fixed operational spend ($2,000).
-3. **Restructure In-Person Activations:** Preserve the top-performing conversion rate (33.04%) while lowering production overhead ($19.74 CAC) through co-branded ambassador spaces and digital QR check-in attribution.
-* **Deliverables:**
-  * [`Task-4-Data-Analysis/Task4_Dataset_Ambassador_Marketing_Q4.xlsx`](./Task-4-Data-Analysis/Task4_Dataset_Ambassador_Marketing_Q4.xlsx)
-  * [`Task-4-Data-Analysis/Task4_Ambassador Performance Data Analysis.pdf`](./Task-4-Data-Analysis/Task4_Ambassador%20Performance%20Data%20Analysis.pdf)
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **TikTok Campaign** | $4,500 | 30,000 | 2,800 | 510 | $15,000 | 18.21% | **$8.82** | **+233.33%** |
+| **Email Newsletter** | $2,000 | 12,000 | 750 | 180 | $5,400 | 24.00% | **$11.11** | **+170.00%** |
+| Influencer Collab | $5,700 | 9,800 | 1,300 | 360 | $10,700 | 27.69% | $15.83 | +87.72% |
+| Instagram Ads | $5,200 | 18,000 | 1,400 | 320 | $9,600 | 22.86% | $16.25 | +84.62% |
+| YouTube Sponsorships | $6,800 | 25,000 | 2,100 | 390 | $12,300 | 18.57% | $17.44 | +80.88% |
+| Facebook Ads | $3,900 | 14,500 | 900 | 220 | $6,800 | 24.44% | $17.73 | +74.36% |
+| **In-Person Events** | $7,500 | 3,200 | 1,150 | 380 | $11,200 | **33.04%** | **$19.74** | +49.33% |
+| Blog Partnerships | $2,800 | 7,500 | 640 | 150 | $3,900 | 23.44% | $18.67 | **+39.29%** |
+| **Portfolio Benchmark** | **$4,800 Avg.** | **15,000 Avg.** | **1,380 Avg.** | **313.75 Avg.** | **$9,362.50 Avg.** | **24.03% Avg.** | **$15.70 Avg.** | **+102.44% Avg.** |
 
 ---
 
-## 🛠️ Core Competencies & Toolsets
+## 💡 Strategic Insights & Budget Recommendations
 
-* **Strategic Omnichannel Marketing:** Campaign Briefing, Hyperlocal Creator Frameworks, Unified Customer Journey Mapping.
-* **Retail Technology Innovation:** Augmented Reality (AR) Solutions, Endless Aisle Synchronization, Mobile POS Integration.
-* **Performance Marketing & Quantitative Analytics:** Microsoft Excel (Financial Metric Modeling, Data Aggregation, CAC/ROI Benchmarking), Executive Reporting.
+### 1. Scale TikTok Creator Recruitment
+
+TikTok demonstrated the strongest combination of acquisition efficiency and profitability:
+
+- **$8.82 CAC**
+- **233.33% ROI**
+- **30,000 reach**
+- **$15,000 revenue**
+
+The analysis recommends increasing investment in short-form video creators to capitalize on TikTok's strong acquisition efficiency and return.
+
+### 2. Expand Email Nurture Funnels
+
+Email Newsletter generated:
+
+- **170.00% ROI**
+- **$11.11 CAC**
+- **$2,000 spend**
+
+The analysis recommends expanding creator-curated email workflows to strengthen audience nurturing and retention.
+
+### 3. Restructure In-Person Activations
+
+In-Person Events achieved the **highest conversion rate at 33.04%**, demonstrating strong purchase intent.
+
+However, the channel also recorded the **highest CAC at $19.74**.
+
+The recommended approach is to preserve the channel while improving cost efficiency through:
+
+- Co-branded ambassador spaces
+- Digital QR check-ins
+- Improved attribution
+- More efficient event production
 
 ---
 
-## 👤 Author
-**Maham Mehboob**  
+## 🎯 Overall Strategic Takeaway
+
+The analysis demonstrates the importance of evaluating marketing channels across multiple performance dimensions rather than relying on a single KPI.
+
+An effective omnichannel strategy can combine:
+
+**High-volume digital channels**
+
+→ Awareness and efficient customer acquisition
+
+**High-touch experiential channels**
+
+→ Stronger purchase intent and customer relationships
+
+**Data and attribution**
+
+→ A clearer understanding of how different channels contribute to the overall customer journey
+
+The key takeaway is that effective omnichannel marketing connects **channel performance, customer behavior, and business outcomes** to support better strategic decisions.
+
+---
+
+# 🛠️ Skills & Tools Demonstrated
+
+## Marketing Skills
+
+- Omnichannel Marketing
+- Integrated Marketing Strategy
+- Customer Journey Planning
+- Campaign Strategy
+- Brand Strategy
+- Customer Experience
+- Influencer & Ambassador Marketing
+- Digital Marketing
+- Retail Marketing
+- Local Marketing Strategy
+
+## Analytics Skills
+
+- Marketing Analytics
+- Campaign Performance Analysis
+- KPI Analysis
+- ROI Analysis
+- Customer Acquisition Cost (CAC) Analysis
+- Conversion Rate Analysis
+- Data-Driven Decision Making
+- Budget Allocation
+- Performance Benchmarking
+- Excel Data Analysis
+
+## Tools
+
+- Microsoft Excel
+- Data Modeling
+- Financial Metric Calculations
+- Executive Reporting
+- Presentation & Pitch Development
+
+---
+
+# 📜 Certificate
+
+**Omnichannel Marketing Job Simulation — Forage**
+
+[View Certificate](./Omnichannel_Marketing_Job_Simulation_Certificate.pdf)
+
+---
+
+# 👤 Author
+
+**Maham Mehboob**
+
 *Marketing Analytics & Brand Strategy*
