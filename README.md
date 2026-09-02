@@ -301,10 +301,11 @@ The key takeaway is that effective omnichannel marketing connects **channel perf
 
 **Omnichannel Marketing Job Simulation — Forage**
 
-[View Certificate](./Omnichannel_Marketing_Job_Simulation_Certificate.pdf)
+**Certificate File:** `Omnichannel_Marketing_Job_Simulation_Certificate.pdf`
+
+[View Certificate](./Omnichannel_Marketing_Job_Simulation_Certificate/Omnichannel_Marketing_Job_Simulation_Certificate.pdf)
 
 ---
-
 # 👤 Author
 
 **Maham Mehboob**
