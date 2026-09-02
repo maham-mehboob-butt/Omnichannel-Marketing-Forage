@@ -18,6 +18,8 @@ The deliverables demonstrate how marketing strategy, customer experience, digita
 ```text
 Omnichannel-Marketing-Forage/
 │
+├── Omnichannel_Marketing_Job_Simulation_Certificate.pdf
+│
 ├── Task-1-Integrated-Marketing-Plan/
 │   └── Task1_Creative_Brief_Move_Together.pdf
 │
@@ -32,7 +34,6 @@ Omnichannel-Marketing-Forage/
 │   ├── Task4_Dataset_Ambassador_Marketing_Q4.xlsx
 │   └── Task4_Ambassador_Performance_Data_Analysis.pdf
 │
-├── Omnichannel_Marketing_Job_Simulation_Certificate.pdf
 └── README.md
 ```
 
@@ -296,11 +297,12 @@ The key takeaway is that effective omnichannel marketing connects **channel perf
 
 ---
 
-# 📜 Certificate
+## 📜 Certificate
 
 **Omnichannel Marketing Job Simulation — Forage**
 
 [View Certificate](./Omnichannel_Marketing_Job_Simulation_Certificate.pdf)
+
 ---
 
 # 👤 Author
