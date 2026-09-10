@@ -102,7 +102,7 @@ The solution aims to reduce:
 
 ### Deliverable
 
-[View Task 2 — Digital Product Concept](./Task-2-Retail-Guest-Experience/Task2_Digital_Product_Concept_Submission.pdf)
+[View Task 2 — Digital Product Concept](./Task-2-Retail-Guest-Experience/Task2_Digital_Product_Concept.pdf)
 
 ---
 
@@ -234,6 +234,12 @@ The recommended approach is to preserve the channel while improving cost efficie
 - Digital QR check-ins
 - Improved attribution
 - More efficient event production
+
+### Deliverables
+
+[View Task 4 — Ambassador Performance Data Analysis](./Task-4-Data-Analysis/Task4_Ambassador_Performance_Data_Analysis.pdf)
+
+[View Task 4 — Dataset](./Task-4-Data-Analysis/Task4_Dataset_Ambassador_Marketing_Q4.xlsx)
 
 ---
 
