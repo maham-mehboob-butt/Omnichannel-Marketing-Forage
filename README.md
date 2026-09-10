@@ -237,7 +237,7 @@ The recommended approach is to preserve the channel while improving cost efficie
 
 ### Deliverables
 
-[View Task 4 — Ambassador Performance Data Analysis](./Task-4-Data-Analysis/Task4_Ambassador_Performance_Data_Analysis.pdf)
+[View Task 4 — Ambassador Performance Data Analysis](./Task-4-Data-Analysis/Task4_Ambassador%20Performance%20Data%20Analysis.pdf)
 
 [View Task 4 — Dataset](./Task-4-Data-Analysis/Task4_Dataset_Ambassador_Marketing_Q4.xlsx)
 
